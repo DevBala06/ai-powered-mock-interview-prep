@@ -149,8 +149,8 @@ export default function Home() {
                   );
                 })}  className="relative z-20">Interview</span> <span> <img className="absolute pointer-events-none -top-8 left-[41.5rem] w-[520px] h-[520px]" src="https://assets.website-files.com/62fdbdeb5472695f67359ce1/62fdbdeb5472692028359cfa_your-own-scribble.svg" alt="svg" /></span> <br /> with AI</h1>
       <div className="flex flex-col justify-center items-center w-full">
-      <p className="font-semibold text-sm mt-3 ">"Maximize your interview potential with our advanced AI technology. Personalized insights and real-time</p>
-      <p  className="font-semibold text-sm  -mt-1"> feedback ensure you approach each interview confidently and effectively."</p>
+      <p className="font-semibold text-sm mt-3 ">Maximize your interview potential with our advanced AI technology. Personalized insights and real-time</p>
+      <p  className="font-semibold text-sm  -mt-1"> feedback ensure you approach each interview confidently and effectively.</p>
       </div>
       
       <div className="mt-3">
